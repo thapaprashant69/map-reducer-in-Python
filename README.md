@@ -6,7 +6,7 @@ To run this project, you will need to have Python installed on your machine, as 
 ```
 pip install mrjob
 ```
-##Usage
+## Usage
 Clone this repository to your local machine.
 Open **'map_reducer_mrjob.ipynb'** in Jupyter Notebook or any other Python IDE.
 Run the cells in the notebook to generate the map reduce function in **'detail_temperature.py'**.
